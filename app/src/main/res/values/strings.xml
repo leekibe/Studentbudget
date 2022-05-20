@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Student Budget</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="student_budget">STUDENT BUDGET</string>
+    <string name="name">Name:</string>
+    <string name="income">Income:</string>
+    <string name="academic_year">Academic year:</string>
+    <string name="next">NEXT</string>
+    <string name="expenses">Expenses</string>
+    <string name="accommodation_fee">Accommodation Fee:</string>
+    <string name="school_utilities">School Utilities:</string>
+    <string name="transport">Transport:</string>
+    <string name="food">Food:</string>
+    <string name="entertainment">Entertainment:</string>
+    <string name="personal_utilities">Personal Utilities:</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save_action">SAVE</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="total_deductible">TOTAL DEDUCTIBLE</string>
+    <string name="budget">Budget</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_year">Enter Year</string>
+    <string name="enter_budget">Enter Budget</string>
+    <string name="enter_accommodation_fee">Enter accommodation fee</string>
+    <string name="enter_fee">Enter Fee</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="register">Register</string>
+
+</resources>
